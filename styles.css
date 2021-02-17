@@ -1,0 +1,28 @@
+body {
+  background-color: #224cbf;
+  text-align: center;
+}
+
+.welcome {
+  font-size: 300%;
+  color: #4da0e3;
+}
+
+.randomNum {
+  margin-top: 5em;
+  color: #a6d117;
+}
+
+.randomName {
+  margin-top: 3em;
+  color: #fcca03;
+}
+
+.hrBreak {
+  border-top: 5px dashed #1c8c99;
+  width: 10%;
+  border-bottom: 0;
+  border-left: 0;
+  border-right: 0;
+  margin-top: 100px;
+}
